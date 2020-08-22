@@ -5,11 +5,11 @@
     }
 
     .file-upload {
-        width: 57.125rem;
-        height: 50vw;
+        padding: 15% 3%;
+        margin: 0 auto;
         border-radius: 10px;
-        border: solid 1.5px var(--pale-grey);
-        background-color: var(--pale-grey);
+        border: solid 1.5px rgba(0,123,255,.5);
+        background-color: #d7def3;
     }
 
     .file-upload-btn {
@@ -56,10 +56,13 @@
     }
 
     .image-upload-wrap {
+        width: 88%;
+        margin: 0 auto;
+        position: relative;
         object-fit: contain;
         border-radius: 10px;
-        border: solid 1.5px #35465d;
-        background-color: var(--white)
+        border: dashed 1.5px #35465d;
+        background-color: #ffffff;
     }
 
     .image-dropping,
@@ -76,24 +79,13 @@
     }
 
     .drag-text {
-        width: 19.688rem;
-        height: 5.063rem;
-        font-family: NanumSquareR;
-        font-size: 2.063rem;
-        font-weight: normal;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: 1.53;
-        letter-spacing: normal;
         text-align: center;
-        color: #35465d;
     }
 
     .drag-text h3 {
-        font-weight: 100;
+        padding: 10px 41px;
+        font-weight: 500;
         text-transform: uppercase;
-        color: #15824b;
-        padding: 60px 0;
     }
 
     .file-upload-image {
