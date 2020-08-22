@@ -55,15 +55,21 @@
     }
 
     .image-upload-wrap {
-        margin-top: 20px;
-        border: 4px dashed #1fb264;
-        position: relative;
+        width: 57.125rem;
+        height: 43.938rem;
+        border-radius: 10px;
+        border: solid 1.5px var(--pale-grey);
+        background-color: var(--pale-grey);
     }
 
     .image-dropping,
     .image-upload-wrap:hover {
-        background-color: #1fb264;
-        border: 4px dashed #ffffff;
+        width: 32.75rem;
+        height: 25.188rem;
+        object-fit: contain;
+        border-radius: 10px;
+        border: solid 1.5px #35465d;
+        background-color: var(--white);
     }
 
     .image-title-wrap {
@@ -72,7 +78,17 @@
     }
 
     .drag-text {
+        width: 19.688rem;
+        height: 5.063rem;
+        font-family: NanumSquareR;
+        font-size: 2.063rem;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
         text-align: center;
+        color: #35465d;
     }
 
     .drag-text h3 {
