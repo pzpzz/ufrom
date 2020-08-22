@@ -6,7 +6,7 @@
 
     .file-upload {
         width: 57.125rem;
-        height: 43.938rem;
+        height: 50vw;
         border-radius: 10px;
         border: solid 1.5px var(--pale-grey);
         background-color: var(--pale-grey);
@@ -56,18 +56,14 @@
     }
 
     .image-upload-wrap {
-        width: 32.75rem;
-        height: 25.188rem;
         object-fit: contain;
         border-radius: 10px;
-        border: solid 4px #35465d;
-        background-color: var(--white);
+        border: solid 1.5px #35465d;
+        background-color: var(--white)
     }
 
     .image-dropping,
     .image-upload-wrap:hover {
-        width: 32.75rem;
-        height: 25.188rem;
         object-fit: contain;
         border-radius: 10px;
         border: solid 1.5px #35465d;
