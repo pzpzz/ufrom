@@ -5,10 +5,11 @@
     }
 
     .file-upload {
-        background-color: #ffffff;
-        width: 600px;
-        margin: 0 auto;
-        padding: 20px;
+        width: 57.125rem;
+        height: 43.938rem;
+        border-radius: 10px;
+        border: solid 1.5px var(--pale-grey);
+        background-color: var(--pale-grey);
     }
 
     .file-upload-btn {
@@ -55,11 +56,12 @@
     }
 
     .image-upload-wrap {
-        width: 57.125rem;
-        height: 43.938rem;
+        width: 32.75rem;
+        height: 25.188rem;
+        object-fit: contain;
         border-radius: 10px;
-        border: solid 1.5px var(--pale-grey);
-        background-color: var(--pale-grey);
+        border: solid 4px #35465d;
+        background-color: var(--white);
     }
 
     .image-dropping,
