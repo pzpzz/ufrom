@@ -73,12 +73,13 @@
         <div class="image-upload-wrap">
             <input class="file-upload-input" type="file" onchange="readURL(this);" accept="image/*" />
             <div class="drag-text">
-                <h3>여기에 사진 :)</h3>
+                <h3>사진을 올려놓고 10초만 기다려주세요 :)</h3>
             </div>
         </div>
         <div class="file-upload-content">
             <img class="file-upload-image" id="face-image" src="#" alt="your image" />
             <div id="label-container"></div>
+            <p class="result-message"></p>
             <div class="image-title-wrap">
                 <button type="button" onclick="removeUpload()" class="remove-image">
                     Remove <span class="image-title">Uploaded Image</span>
@@ -159,7 +160,23 @@
             var image = document.getElementById('face-image')
             const prediction = await model.predict(image, false);
             prediction.sort((a, b) => parseFloat(b.probability) - parseFloat(a.probability));
-
+            console.log(prediction[0].className);
+            var resultMessage;
+            switch (prediction[0].className) {
+                case "한국인":
+                    resultMessage = "한국인"
+                    break;
+                case "일본인":
+                    resultMessage = "일본인"
+                    break;
+                case "중국인":
+                    resultMessage = "중국인"
+                    break;
+                default:
+                    resultMessage = "Who are you?"
+                    break;
+            }
+            $('.result-message').html(resultMessage);
             for (let i = 0; i < maxPredictions; i++) {
                 const classPrediction =
                     prediction[i].className + ': ' + prediction[i].probability.toFixed(2);
