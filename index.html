@@ -31,7 +31,7 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">BTS</a>
+                    <a class="nav-link" href="#">한중일 판독기</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -39,14 +39,10 @@
                         방탄소년단
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
+                        <a class="dropdown-item" href="#">BTS</a>
+                        <a class="dropdown-item" href="https://www.youtube.com/watch?v=gdZLi9oWNZg">Dynamite</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
                     </div>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
                 </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
@@ -58,7 +54,7 @@
     <section class="section">
         <h1 class="title">한중일 판독기 for men</h1>
         <h2 class="subtitle">
-            <p class="result-message">사실.. 나는..</p>
+            <p class="result-message1">사실.. 나는..</p>
         </h2>
     </section>
 
@@ -78,19 +74,19 @@
         <div class="image-upload-wrap">
             <input class="file-upload-input" type="file" onchange="readURL(this);" accept="image/*" />
             <div class="drag-text">
-                <h3>사진을 올려놓고 10초만 기다려주세요 :)</h3>
+                <h3>사진을 올리고 잠깐 기다려주세요 :)</h3>
             </div>
         </div>
         <div class="file-upload-content">
             <img class="file-upload-image" id="face-image" src="#" alt="your image" />
             <div id="label-container"></div>
-
+            <p class="result-message2"></p>
             <!-- Go to www.addthis.com/dashboard to customize your tools -->
             <div class="addthis_inline_share_toolbox"></div>
 
             <div class="image-title-wrap">
                 <button type="button" onclick="removeUpload()" class="remove-image">
-                    다시할래! <span class="image-title">Uploaded Image</span>
+                    다시 할래!
                 </button>
             </div>
         </div>
@@ -168,22 +164,27 @@
             const prediction = await model.predict(image, false);
             prediction.sort((a, b) => parseFloat(b.probability) - parseFloat(a.probability));
             console.log(prediction[0].className);
-            var resultMessage;
+            var resultMessage1;
             switch (prediction[0].className) {
                 case "한국인":
-                    resultMessage = "동해물과 백두산이 마르고 닳도록!"
+                    resultMessage1 = "동해물과 백두산이 마르고 닳도록!"
+                    resultMessage2 = "당신은 자랑스러운 한국인입니다."
                     break;
                 case "일본인":
-                    resultMessage = "하잇, 니혼진데쓰"
+                    resultMessage1 = "하잇, 니혼진데쓰"
+                    resultMessage2 = "고노야로.."
                     break;
                 case "중국인":
-                    resultMessage = "니하오, 워씌쫑궈런"
+                    resultMessage1 = "니하오, 워씌쫑궈런"
+                    resultMessage2 = "니 찌아오 션머 밍즈?"
                     break;
                 default:
-                    resultMessage = "Who are you?"
+                    resultMessage1 = "Who are you?"
+                    resultMessage2 = "어케했냐"
                     break;
             }
-            $('.result-message').html(resultMessage);
+            $('.result-message1').html(resultMessage1);
+            $('.result-message2').html(resultMessage2);
             for (let i = 0; i < maxPredictions; i++) {
                 const classPrediction =
                     prediction[i].className + ': ' + prediction[i].probability.toFixed(2);
