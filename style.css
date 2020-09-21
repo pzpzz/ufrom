@@ -4,6 +4,10 @@
         background-color: #ffffff;
     }
 
+    .h1, h1 {
+        font-size: 2.5rem;
+        margin-top: -94px;
+    }
     .file-upload {
         padding: 20% 3%;
         margin: 0 auto;
