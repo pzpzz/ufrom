@@ -5,7 +5,7 @@
     }
 
     .file-upload {
-        padding: 15% 3%;
+        padding: 20% 3%;
         margin: 0 auto;
         border-radius: 10px;
         border: solid 1.5px rgba(0,123,255,.5);
@@ -83,7 +83,7 @@
     }
 
     .drag-text h3 {
-        padding: 10px 41px;
+        padding: 70px 20px;
         font-weight: 500;
         text-transform: uppercase;
     }
@@ -152,6 +152,13 @@
         color: #35465d;
     }
 
+    .h2, h2 {
+        font-size: 1.25rem;
+    }
+
+    .h3, h3 {
+        font-size: 1.75rem;
+    }
     .youtube-link {   
         font-family: NanumSquareR;
         font-size: 1.5rem;
