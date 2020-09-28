@@ -1,0 +1,579 @@
+[I 14:27:18.326 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:27:18.691 NotebookApp] JupyterLab extension loaded from C:\Users\beam4\Anaconda3\lib\site-packages\jupyterlab
+[I 14:27:18.691 NotebookApp] JupyterLab application directory is C:\Users\beam4\Anaconda3\share\jupyter\lab
+[I 14:27:18.701 NotebookApp] Serving notebooks from local directory: C:\Users\beam4
+[I 14:27:18.701 NotebookApp] The Jupyter Notebook is running at:
+[I 14:27:18.702 NotebookApp] http://localhost:8889/?token=943dd1c1b070daef71ba3968d9a515264e4d268c330bb312
+[I 14:27:18.702 NotebookApp]  or http://127.0.0.1:8889/?token=943dd1c1b070daef71ba3968d9a515264e4d268c330bb312
+[I 14:27:18.702 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:27:19.193 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/beam4/AppData/Roaming/jupyter/runtime/nbserver-21392-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=943dd1c1b070daef71ba3968d9a515264e4d268c330bb312
+     or http://127.0.0.1:8889/?token=943dd1c1b070daef71ba3968d9a515264e4d268c330bb312
+[E 14:27:23.350 NotebookApp] Could not open static file ''
+[W 14:27:24.554 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 44.64ms referer=http://localhost:8889/tree?token=943dd1c1b070daef71ba3968d9a515264e4d268c330bb312
+[W 14:27:24.704 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 8.90ms referer=http://localhost:8889/tree?token=943dd1c1b070daef71ba3968d9a515264e4d268c330bb312
+[W 14:31:20.401 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 32.19ms referer=http://localhost:8889/notebooks/Desktop/%EC%95%88%EA%B1%B4%EC%98%81/1%ED%95%99%EB%85%84/2%ED%95%99%EA%B8%B0/%EC%9B%B9%ED%8C%8C/Step_02_Variables_.ipynb
+[W 14:31:20.574 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 5.91ms referer=http://localhost:8889/notebooks/Desktop/%EC%95%88%EA%B1%B4%EC%98%81/1%ED%95%99%EB%85%84/2%ED%95%99%EA%B8%B0/%EC%9B%B9%ED%8C%8C/Step_02_Variables_.ipynb
+[I 14:31:21.810 NotebookApp] Writing notebook-signing key to C:\Users\beam4\AppData\Roaming\jupyter\notebook_secret
+[W 14:31:21.878 NotebookApp] Notebook Desktop/안건영/1학년/2학기/웹파/Step_02_Variables_.ipynb is not trusted
+[I 14:31:25.028 NotebookApp] Kernel started: a431bf22-37a8-42a3-8aca-b2c67c434ac3
+[I 14:31:29.548 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 14:31:40.147 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 23:43:21.294 NotebookApp] Saving file at /Desktop/안건영/1학년/2학기/웹파/Step_02_Variables_.ipynb
+[W 23:43:21.300 NotebookApp] Notebook Desktop/안건영/1학년/2학기/웹파/Step_02_Variables_.ipynb is not trusted
+[I 23:43:30.170 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 23:43:30.171 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 00:55:06.512 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:03:39.499 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:03:39.504 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:05:34.173 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:06:43.347 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:06:43.349 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:10:03.531 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:11:14.023 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:11:14.025 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:13:33.516 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:14:42.846 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:14:42.847 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:17:03.427 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:18:12.948 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:18:12.949 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:20:32.580 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:21:47.414 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:21:47.416 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:24:02.492 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:25:10.866 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:25:10.869 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:27:31.516 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:28:41.438 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:28:41.441 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:31:01.508 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:32:06.347 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:32:06.349 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:34:31.555 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:35:40.278 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:35:40.279 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:38:01.615 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:39:06.236 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:39:06.238 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:41:31.510 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:42:40.249 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:42:40.251 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:45:01.502 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:46:08.790 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:46:08.791 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:48:30.615 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:49:43.865 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:49:43.872 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:52:00.268 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:53:05.439 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:53:05.441 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:55:30.484 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:56:38.835 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 01:56:38.836 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 01:59:00.509 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:00:08.879 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:00:08.881 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:02:30.735 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:03:38.922 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:03:38.924 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:07:29.249 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:08:34.539 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:08:34.541 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:11:29.328 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:12:34.374 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:12:34.375 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:14:59.499 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:16:04.383 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:16:04.385 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:18:29.782 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:19:39.612 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:19:39.614 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:22:00.000 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:23:09.282 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:23:09.283 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:25:29.674 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:26:35.061 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:26:35.063 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:28:59.396 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:30:08.240 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:30:08.241 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:32:29.476 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:33:35.428 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:33:35.430 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:36:00.238 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:37:05.466 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:37:05.468 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:39:30.406 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:40:39.853 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:40:39.855 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:43:00.624 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:44:05.361 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:44:05.363 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:46:30.467 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:47:40.793 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:47:40.795 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:50:00.551 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:51:09.852 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:51:09.854 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:53:30.568 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:54:41.432 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:54:41.433 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:57:00.195 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 02:58:08.832 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 02:58:08.834 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:00:30.475 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:01:39.387 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:01:39.389 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:03:59.661 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:05:07.764 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:05:07.765 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:07:59.461 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:09:07.843 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:09:07.845 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:11:29.635 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:12:34.413 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:12:34.415 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:14:59.454 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:16:09.840 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:16:09.841 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:18:29.662 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:19:34.489 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:19:34.491 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:21:59.501 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:23:09.787 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:23:09.788 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:25:29.589 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:26:48.158 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:26:48.160 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:29:00.177 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:30:07.716 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:30:07.717 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:32:29.537 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:33:34.416 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:33:34.418 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:35:59.466 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:37:03.565 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:37:03.567 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:39:28.501 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:41:47.117 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:41:47.119 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:44:59.097 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:46:07.865 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:46:07.867 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:48:28.853 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:49:37.813 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:49:37.815 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:51:59.295 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:53:05.776 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:53:05.778 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:55:27.485 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:56:37.906 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 03:56:37.907 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 03:58:57.093 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:00:05.863 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:00:05.864 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:02:26.313 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:03:36.360 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:03:36.362 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:07:26.606 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:08:36.286 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:08:36.287 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:10:55.444 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:12:03.672 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:12:03.674 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:14:25.521 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:15:33.684 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:15:33.685 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:17:55.352 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:19:02.220 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:19:02.222 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:21:23.442 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:22:30.882 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:22:30.884 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:24:52.556 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:27:07.026 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:27:07.028 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:29:23.191 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:30:33.877 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:30:33.878 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:32:54.222 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:34:03.221 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:34:03.223 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:34:04.401 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:35:13.346 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:35:13.348 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:37:23.728 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:38:27.913 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:38:27.915 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:40:52.587 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:42:00.786 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:42:00.788 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:44:22.537 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:45:33.861 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:45:33.863 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:47:53.478 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:48:57.272 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:48:57.274 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:51:22.194 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:52:26.428 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:52:26.430 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:54:51.550 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:55:59.707 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:55:59.708 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:58:21.526 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 04:59:27.392 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 04:59:27.394 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:01:51.964 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:03:02.924 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:03:02.926 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:05:22.343 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:06:27.389 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:06:27.391 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:08:52.550 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:10:01.263 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:10:01.266 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:12:22.531 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:13:31.987 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:13:31.989 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:15:52.567 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:17:00.853 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:17:00.855 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:19:21.554 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:20:29.691 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:20:29.692 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:22:51.550 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:24:00.901 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:24:00.902 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:26:21.531 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:27:29.793 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:27:29.794 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:29:51.554 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:30:59.884 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:30:59.886 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:33:21.228 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:34:29.692 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:34:29.694 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:36:51.510 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:37:59.685 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:37:59.686 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:40:21.538 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:41:29.862 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:41:29.864 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:43:51.434 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:45:01.351 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:45:01.352 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:47:21.513 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:48:30.856 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:48:30.858 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:50:51.485 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:52:02.348 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:52:02.349 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:54:21.327 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:55:30.257 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:55:30.259 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:57:51.264 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 05:59:01.409 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 05:59:01.411 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:01:21.565 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:02:29.820 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:02:29.822 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:04:51.550 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:05:59.716 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:05:59.718 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:08:21.468 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:09:26.319 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:09:26.321 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:11:51.537 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:12:59.711 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:12:59.713 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:15:21.997 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:16:30.881 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:16:30.882 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:18:52.247 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:20:00.849 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:20:00.851 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:22:21.355 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:23:30.891 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:23:30.893 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:25:51.361 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:27:00.779 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:27:00.781 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:29:20.195 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:30:29.882 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:30:29.883 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:32:50.591 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:34:00.285 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:34:00.286 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:36:19.736 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:37:23.421 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:37:23.423 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:39:48.302 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:40:52.554 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:40:52.555 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:43:17.669 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:44:24.710 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:44:24.711 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:46:46.560 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:47:53.750 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:47:53.752 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:50:15.527 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:51:24.718 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:51:24.720 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:53:44.569 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:54:51.713 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:54:51.714 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:57:13.465 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 06:58:17.436 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 06:58:17.438 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:00:42.549 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:01:50.695 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:01:50.696 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:04:11.599 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:05:19.728 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:05:19.730 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:07:41.385 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:09:52.877 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:09:52.879 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:12:10.646 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:13:18.694 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:13:18.695 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:15:40.488 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:16:47.814 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:16:47.816 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:19:09.538 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:20:13.694 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:20:13.696 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:22:38.566 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:23:48.343 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:23:48.345 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:26:08.489 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:27:15.716 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:27:15.717 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:29:37.507 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:30:44.887 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:30:44.888 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:33:06.733 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:34:15.849 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:34:15.851 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:36:36.351 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:37:43.822 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:37:43.824 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:40:05.488 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:42:17.807 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:42:17.809 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:44:35.664 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:46:48.939 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:46:48.940 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:49:05.485 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:50:14.832 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:50:14.833 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:52:35.534 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:53:44.724 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:53:44.726 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:56:05.587 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:57:13.889 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 07:57:13.890 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 07:59:35.118 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:00:42.774 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:00:42.776 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:03:04.597 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:04:12.878 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:04:12.880 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:06:34.590 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:07:43.419 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:07:43.421 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:10:04.307 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:11:09.288 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:11:09.289 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:13:34.376 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:14:42.912 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:14:42.914 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:17:04.655 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:18:14.346 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:18:14.348 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:20:33.544 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:21:37.439 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:21:37.441 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:24:02.600 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:25:10.957 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:25:10.958 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:27:32.269 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:28:39.753 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:28:39.754 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:31:00.602 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:33:15.479 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:33:15.481 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:35:31.562 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:36:40.576 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:36:40.577 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:39:01.222 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:40:05.547 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:40:05.549 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:42:30.459 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:43:38.939 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:43:38.940 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:46:00.583 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:47:08.953 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:47:08.955 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:49:30.538 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:50:38.860 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:50:38.861 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:52:59.485 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:54:08.255 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:54:08.257 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:56:29.591 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 08:57:38.701 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 08:57:38.703 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:00:00.233 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:01:10.299 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:01:10.300 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:03:29.552 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:04:34.423 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:04:34.425 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:06:59.535 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:08:03.834 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:08:03.836 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:10:28.585 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:11:33.910 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:11:33.912 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:13:58.491 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:15:07.297 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:15:07.299 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:17:28.287 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:18:37.381 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:18:37.383 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:20:57.535 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:22:03.420 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:22:03.422 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:24:27.857 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:25:36.959 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:25:36.960 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:27:58.161 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:29:01.567 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:29:01.569 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:31:26.497 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:32:30.909 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:32:30.911 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:34:55.450 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:36:01.385 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:36:01.387 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:38:26.190 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:39:34.337 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:39:34.339 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:41:55.575 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:43:02.748 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:43:02.749 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:45:24.283 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:46:31.690 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:46:31.691 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:48:53.470 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:49:57.556 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:49:57.558 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:52:22.563 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:53:30.232 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:53:30.233 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:55:51.548 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 09:58:07.833 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 09:58:07.835 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:00:21.048 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:01:26.445 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:01:26.447 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:03:50.956 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:05:00.284 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:05:00.285 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:07:21.622 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:08:30.296 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:08:30.297 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:12:51.488 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:13:56.379 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:13:56.381 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:16:21.524 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:17:26.380 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:17:26.381 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:19:51.383 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:20:59.911 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:20:59.913 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:23:21.632 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:24:25.777 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:24:25.779 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:26:50.521 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:27:55.568 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:27:55.570 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:30:20.516 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:31:31.359 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:31:31.360 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:33:51.033 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:34:56.373 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:34:56.375 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:37:21.186 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:38:26.602 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:38:26.604 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:40:51.475 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:41:55.375 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:41:55.377 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:44:20.519 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:45:30.200 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:45:30.201 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:47:50.582 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:49:01.358 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:49:01.360 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:51:20.164 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:52:28.419 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:52:28.420 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:54:49.575 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:55:58.008 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:55:58.010 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:58:19.233 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 10:59:23.339 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 10:59:23.341 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:01:48.350 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:02:53.355 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:02:53.356 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:05:18.549 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:06:25.953 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:06:25.954 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:09:17.533 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:10:26.343 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:10:26.344 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:12:46.627 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:13:51.334 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:13:51.336 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:16:16.505 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:17:23.964 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:17:23.965 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:19:45.675 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:20:50.480 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:20:50.482 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:23:15.481 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:24:20.640 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:24:20.642 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:26:45.495 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:27:56.863 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:27:56.865 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:30:16.229 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:31:25.518 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:31:25.520 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:33:46.833 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:34:55.092 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:34:55.093 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:37:16.185 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:38:21.557 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:38:21.559 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:40:46.545 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:41:54.790 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:41:54.792 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:44:16.614 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:45:25.923 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:45:25.925 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:47:45.462 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:48:52.728 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:48:52.729 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:51:14.240 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:52:19.511 NotebookApp] Adapting from protocol version 5.1 (kernel a431bf22-37a8-42a3-8aca-b2c67c434ac3) to 5.3 (client).
+[I 11:52:19.513 NotebookApp] Restoring connection for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37
+[I 11:54:44.575 NotebookApp] Starting buffering for a431bf22-37a8-42a3-8aca-b2c67c434ac3:7a1134cdad274aea9f4e310d8202be37

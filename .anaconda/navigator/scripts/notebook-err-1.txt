@@ -1,0 +1,17 @@
+[I 12:31:40.435 NotebookApp] Writing notebook server cookie secret to C:\Users\beam4\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[I 12:31:42.114 NotebookApp] JupyterLab extension loaded from C:\Users\beam4\Anaconda3\lib\site-packages\jupyterlab
+[I 12:31:42.114 NotebookApp] JupyterLab application directory is C:\Users\beam4\Anaconda3\share\jupyter\lab
+[I 12:31:42.120 NotebookApp] Serving notebooks from local directory: C:\Users\beam4
+[I 12:31:42.120 NotebookApp] The Jupyter Notebook is running at:
+[I 12:31:42.120 NotebookApp] http://localhost:8888/?token=fbcca8086c4c8e04506e126a7e8eb864b992a76a64b46c78
+[I 12:31:42.121 NotebookApp]  or http://127.0.0.1:8888/?token=fbcca8086c4c8e04506e126a7e8eb864b992a76a64b46c78
+[I 12:31:42.121 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:31:42.429 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/beam4/AppData/Roaming/jupyter/runtime/nbserver-18156-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=fbcca8086c4c8e04506e126a7e8eb864b992a76a64b46c78
+     or http://127.0.0.1:8888/?token=fbcca8086c4c8e04506e126a7e8eb864b992a76a64b46c78
+[E 12:31:49.672 NotebookApp] Could not open static file ''
+[W 12:31:50.734 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (::1) 66.95ms referer=http://localhost:8888/tree?token=fbcca8086c4c8e04506e126a7e8eb864b992a76a64b46c78

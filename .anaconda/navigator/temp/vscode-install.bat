@@ -1,0 +1,1 @@
+START /WAIT "" "C:\Users\beam4\.anaconda\navigator\temp\vscodetemp.exe" /VERYSILENT /MERGETASKS=!runcode /SUPPRESSMSGBOXES /NORESTART /LOG="C:\Users\beam4\.anaconda\navigator\temp\vscode-install-log.txt" /DIR="C:\Users\beam4\AppData\Local\Programs\Microsoft VS Code\"
